@@ -1,2 +1,2 @@
 # Perlin-Noise
-Example of peril noise algorithm.
+Example of perlin noise algorithm.
